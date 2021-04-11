@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608263686 source:r:\online sem 4\oop_lab\week1\le_1.6\main.cpp
+	<iostream>
+	<math.h>
+

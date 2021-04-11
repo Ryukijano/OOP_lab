@@ -1,0 +1,3 @@
+
+    Rectangle a;
+    RectArea b;
